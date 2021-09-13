@@ -7,9 +7,7 @@ a {
   color: #00B7FF;
 }
 
-.avatars{
-  left: 100px;
-}
+
 
 .menu1,.menu2,.menu3,.login,.signUp
 {
@@ -81,8 +79,8 @@ a {
 .signUp
 {
     position: absolute;
-    width:250px;
-    height: 30px;
+    width:65px;
+    height: 15px;
     left: 1380px;
     top: 55px;
 
