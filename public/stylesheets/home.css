@@ -15,6 +15,14 @@ a {
     font-weight: bold;
 }
 
+.avatars
+{
+  position: absolute;
+width: 120px;
+height: 108px;
+left: 262px;
+top: 10px;
+}
 .menu1
 {
     position: absolute;
